@@ -1,4 +1,4 @@
-package FordTest;
+package driversExamples;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
